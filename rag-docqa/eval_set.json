@@ -1,0 +1,97 @@
+[
+  {
+    "question": "What were Apple's total net sales in fiscal 2026?",
+    "expected_source": "Apple-10k.pdf",
+    "expected_keywords": ["478"]
+  },
+  {
+    "question": "How many full-time employees does Apple have?",
+    "expected_source": "Apple-10k.pdf",
+    "expected_keywords": ["167,000"]
+  },
+  {
+    "question": "What was Apple's operating income in 2026?",
+    "expected_source": "Apple-10k.pdf",
+    "expected_keywords": ["158"]
+  },
+  {
+    "question": "How much did Apple spend on research and development in 2026?",
+    "expected_source": "Apple-10k.pdf",
+    "expected_keywords": ["45"]
+  },
+  {
+    "question": "What were Apple's iPhone net sales and Services net sales in 2026?",
+    "expected_source": "Apple-10k.pdf",
+    "expected_keywords": ["254", "123"]
+  },
+  {
+    "question": "What was Microsoft's total revenue in fiscal 2026?",
+    "expected_source": "Microsoft-10k.pdf",
+    "expected_keywords": ["331"]
+  },
+  {
+    "question": "How many people does Microsoft employ, and how many are in the United States?",
+    "expected_source": "Microsoft-10k.pdf",
+    "expected_keywords": ["223,000", "121,000"]
+  },
+  {
+    "question": "What was Microsoft's operating income in fiscal 2026?",
+    "expected_source": "Microsoft-10k.pdf",
+    "expected_keywords": ["155"]
+  },
+  {
+    "question": "How much revenue did Microsoft Cloud generate in fiscal 2026?",
+    "expected_source": "Microsoft-10k.pdf",
+    "expected_keywords": ["214"]
+  },
+  {
+    "question": "What was NVIDIA's revenue in fiscal 2026?",
+    "expected_source": "Nvidia-10k.pdf",
+    "expected_keywords": ["215"]
+  },
+  {
+    "question": "What was NVIDIA's operating income in fiscal 2026?",
+    "expected_source": "Nvidia-10k.pdf",
+    "expected_keywords": ["130"]
+  },
+  {
+    "question": "What percentage of NVIDIA's revenue came from its largest direct customer?",
+    "expected_source": "Nvidia-10k.pdf",
+    "expected_keywords": ["22"]
+  },
+  {
+    "question": "Which foundries does NVIDIA use to make its wafers?",
+    "expected_source": "Nvidia-10k.pdf",
+    "expected_keywords": ["TSMC", "Samsung"]
+  },
+  {
+    "question": "What is Apple's revenue per employee?",
+    "expected_source": "Apple-10k.pdf",
+    "expected_keywords": ["2.8"]
+  },
+  {
+    "question": "Which company has the highest operating income as a percentage of revenue?",
+    "expected_source": null,
+    "expected_keywords": ["Nvidia", "60"]
+  },
+  {
+    "question": "Which company depends most on a few large customers?",
+    "expected_source": "Nvidia-10k.pdf",
+    "expected_keywords": ["Nvidia"]
+  },
+  {
+    "question": "What is Tesla's revenue?",
+    "expected_source": null,
+    "expected_keywords": ["couldn't find"]
+  },
+  {
+    "question": "What will NVIDIA's revenue be next year?",
+    "expected_source": null,
+    "expected_keywords": ["couldn't find"]
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected_source": null,
+    "expected_keywords": ["couldn't find"]
+  }
+]
